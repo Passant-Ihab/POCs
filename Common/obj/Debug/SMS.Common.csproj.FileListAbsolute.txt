@@ -1,0 +1,9 @@
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Common\bin\Debug\Common.dll.config
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Common\bin\Debug\Common.dll
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Common\bin\Debug\Common.pdb
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Common\bin\Debug\MongoDB.Bson.dll
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Common\bin\Debug\MongoDB.Bson.xml
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Common\obj\Debug\SMS.Common.csproj.CopyComplete
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Common\obj\Debug\Common.dll
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Common\obj\Debug\Common.pdb
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Common\obj\Debug\SMS.Common.csprojAssemblyReference.cache

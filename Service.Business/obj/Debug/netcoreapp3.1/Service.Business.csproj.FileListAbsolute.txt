@@ -1,0 +1,15 @@
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\obj\Debug\netcoreapp3.1\Service.Business.csprojAssemblyReference.cache
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\obj\Debug\netcoreapp3.1\Service.Business.AssemblyInfoInputs.cache
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\obj\Debug\netcoreapp3.1\Service.Business.AssemblyInfo.cs
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\bin\Debug\netcoreapp3.1\Service.Business.deps.json
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\bin\Debug\netcoreapp3.1\Service.Business.dll
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\bin\Debug\netcoreapp3.1\Service.DataAccess.dll
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\bin\Debug\netcoreapp3.1\Service.Models.dll
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\bin\Debug\netcoreapp3.1\Services.Common.dll
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\bin\Debug\netcoreapp3.1\Service.DataAccess.pdb
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\bin\Debug\netcoreapp3.1\Service.Models.pdb
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\bin\Debug\netcoreapp3.1\Services.Common.pdb
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\obj\Debug\netcoreapp3.1\Service.Business.csproj.CopyComplete
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\bin\Debug\netcoreapp3.1\Service.Business.pdb
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\obj\Debug\netcoreapp3.1\Service.Business.dll
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Business\obj\Debug\netcoreapp3.1\Service.Business.pdb

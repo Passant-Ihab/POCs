@@ -1,0 +1,11 @@
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Models\bin\Debug\netcoreapp3.1\Service.Models.deps.json
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Models\bin\Debug\netcoreapp3.1\Service.Models.dll
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Models\bin\Debug\netcoreapp3.1\Service.Models.pdb
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Models\bin\Debug\netcoreapp3.1\Services.Common.dll
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Models\bin\Debug\netcoreapp3.1\Services.Common.pdb
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Models\obj\Debug\netcoreapp3.1\Service.Models.csprojAssemblyReference.cache
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Models\obj\Debug\netcoreapp3.1\Service.Models.AssemblyInfoInputs.cache
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Models\obj\Debug\netcoreapp3.1\Service.Models.AssemblyInfo.cs
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Models\obj\Debug\netcoreapp3.1\Service.Models.csproj.CopyComplete
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Models\obj\Debug\netcoreapp3.1\Service.Models.dll
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Service.Models\obj\Debug\netcoreapp3.1\Service.Models.pdb

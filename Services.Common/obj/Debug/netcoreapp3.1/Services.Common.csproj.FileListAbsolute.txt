@@ -1,0 +1,8 @@
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Services.Common\bin\Debug\netcoreapp3.1\Services.Common.deps.json
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Services.Common\bin\Debug\netcoreapp3.1\Services.Common.dll
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Services.Common\obj\Debug\netcoreapp3.1\Services.Common.csprojAssemblyReference.cache
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Services.Common\obj\Debug\netcoreapp3.1\Services.Common.AssemblyInfoInputs.cache
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Services.Common\obj\Debug\netcoreapp3.1\Services.Common.AssemblyInfo.cs
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Services.Common\bin\Debug\netcoreapp3.1\Services.Common.pdb
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Services.Common\obj\Debug\netcoreapp3.1\Services.Common.dll
+C:\Users\pehab\Desktop\Passant Ihab\Study\Project1\Services.Common\obj\Debug\netcoreapp3.1\Services.Common.pdb
